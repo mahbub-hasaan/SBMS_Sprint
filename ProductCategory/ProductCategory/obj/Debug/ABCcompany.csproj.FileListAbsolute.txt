@@ -1,0 +1,13 @@
+F:\BITM\Project 1\ProductCategory\ProductCategory\bin\Debug\ProductCategory.exe.config
+F:\BITM\Project 1\ProductCategory\ProductCategory\bin\Debug\ProductCategory.exe
+F:\BITM\Project 1\ProductCategory\ProductCategory\bin\Debug\ProductCategory.pdb
+F:\BITM\Project 1\ProductCategory\ProductCategory\obj\Debug\ABCcompany.csprojResolveAssemblyReference.cache
+F:\BITM\Project 1\ProductCategory\ProductCategory\obj\Debug\ProductCategory.Category.resources
+F:\BITM\Project 1\ProductCategory\ProductCategory\obj\Debug\ProductCategory.Customer.resources
+F:\BITM\Project 1\ProductCategory\ProductCategory\obj\Debug\ProductCategory.Product.resources
+F:\BITM\Project 1\ProductCategory\ProductCategory\obj\Debug\ProductCategory.Properties.Resources.resources
+F:\BITM\Project 1\ProductCategory\ProductCategory\obj\Debug\ProductCategory.Purchase.resources
+F:\BITM\Project 1\ProductCategory\ProductCategory\obj\Debug\ProductCategory.Supplier.resources
+F:\BITM\Project 1\ProductCategory\ProductCategory\obj\Debug\ABCcompany.csproj.GenerateResource.Cache
+F:\BITM\Project 1\ProductCategory\ProductCategory\obj\Debug\ProductCategory.exe
+F:\BITM\Project 1\ProductCategory\ProductCategory\obj\Debug\ProductCategory.pdb
